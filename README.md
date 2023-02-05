@@ -1,12 +1,3 @@
-
-
-<a href="https://github.com/shogohida/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shogohida&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/shogohida/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shogohida" />
-</a>
-
 ## OSS activities
 ### Flutter
 https://github.com/flutter/flutter/pull/116654
@@ -40,3 +31,10 @@ https://github.com/kubernetes/website/pull/39020
 
 ### Tauri
 https://github.com/tauri-apps/tauri/pull/6025
+
+<a href="https://github.com/shogohida/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shogohida&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/shogohida/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shogohida" />
+</a>
