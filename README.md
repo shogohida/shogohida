@@ -1,4 +1,7 @@
 ## OSS contributions
+### Kubernetes
+https://github.com/kubernetes/kubernetes/pull/115800
+
 ### Flutter
 https://github.com/flutter/flutter/pull/116654
 
@@ -34,9 +37,6 @@ https://github.com/tauri-apps/tauri/pull/6025
 
 ### Pytorch (Trying to merge)
 https://github.com/pytorch/pytorch/pull/87572
-
-### Kubernetes (Trying to merge)
-https://github.com/kubernetes/kubernetes/pull/115800
 
 <a href="https://github.com/shogohida/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shogohida&count_private=true&show_icons=true" />
