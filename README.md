@@ -1,3 +1,6 @@
+## My resume
+https://github.com/shogohida/shogohida.github.io/blob/master/Shogo-Hida-FlowCV-Resume-20240315.pdf
+
 ## OSS contributions
 ### Kubernetes
 https://github.com/kubernetes/kubernetes/pull/115800
