@@ -1,5 +1,5 @@
 ## My resume
-https://github.com/shogohida/shogohida.github.io/blob/master/Shogo-Hida-Resume.pdf
+https://github.com/shogohida/shogohida.github.io/blob/master/Shogo-Hida-Resume-20240501.pdf
 
 ## OSS contributions
 ### Kubernetes
