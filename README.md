@@ -1,5 +1,5 @@
-## My resume
-https://github.com/shogohida/shogohida.github.io/blob/master/Shogo_Hida_Resume.pdf
+## My portfolio
+https://shogo-hida-portfolio.pages.dev/
 
 ## OSS contributions
 ### Kubernetes
