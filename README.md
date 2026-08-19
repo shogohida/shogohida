@@ -1,6 +1,3 @@
-## My portfolio
-https://shogo-hida-portfolio.pages.dev/
-
 ## OSS contributions
 ### Kubernetes
 https://github.com/kubernetes/kubernetes/pull/115800
